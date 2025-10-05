@@ -8,5 +8,6 @@
         "astral-sh.uv",
         "ms-python.python"
     ],
-    "postCreateCommand": "pip install fastapi"
+    "postCreateCommand": "pip install fastapi",
+    "remoteUser": "vscode"
 }
